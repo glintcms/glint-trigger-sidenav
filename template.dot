@@ -1,0 +1,56 @@
+<div class="sidenav">
+  <ul>
+
+    <li>
+      <span><big>&#171;</big></span>
+      <small>&nbsp;&nbsp;&nbsp;&nbsp;actions</small>
+    </li>
+
+    <li class="sidenav-edit">
+      <big>&#9997;</big>&nbsp;edit
+    </li>
+
+    <li class="sidenav-save">
+      <big>&#10004;</big>&nbsp;save
+    </li>
+
+    <li class="sidenav-load">
+      <big>&#10227;</big>&nbsp;reload
+    </li>
+
+    <li class="sidenav-copy">
+      <big>&#9093;</big>&nbsp;copy
+
+      <div class="sidenav-input" style="display: none;">
+        <input type="text" name="copy" placeholder="new name">
+        <div>
+          <button class="save">save</button>
+          <button class="cancel">cancel</button>
+        </div>
+      </div>
+
+    </li>
+
+    <li class="sidenav-rename">
+      <big>&#9998;</big>&nbsp;rename
+
+      <div class="sidenav-input" style="display: none;">
+        <input type="text" name="rename" placeholder="new name">
+        <div>
+          <button class="save">save</button>
+          <button class="cancel">cancel</button>
+        </div>
+      </div>
+
+    </li>
+
+    <li class="sidenav-cancel">
+      <big>&#10007;</big>&nbsp;cancel
+    </li>
+
+    <li class="sidenav-delete">
+      <big>&#10754;</big>&nbsp;delete
+    </li>
+
+  </ul>
+</div>
