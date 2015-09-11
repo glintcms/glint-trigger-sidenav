@@ -26,11 +26,13 @@
     "amp-add-class": "^1.1.0",
     "amp-remove-class": "^1.1.0",
     "amp-toggle-class": "^1.1.0",
-    "domify": "^1.3.3",
-    "dot": "^1.0.3",
+    "debug": "^2.2.0",
+    "domify": "^1.4.0",
+    "glint-trigger": "^1.0.0",
     "inherits": "^2.0.1",
     "insert-css": "^0.2.0",
-    "objectizr": "^1.0.2"
+    "objectizr": "^1.0.2",
+    "utils-merge": "^1.0.0"
   },
   "repository": {
     "type": "git",
