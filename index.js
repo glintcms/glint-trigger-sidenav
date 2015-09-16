@@ -1,9 +1,9 @@
 /**
  * Module dependencies.
  */
+var debug = require('debug')('glint-trigger-sidenav');
 var fs = require('fs');
 var Trigger = require('glint-trigger');
-var debug = require('debug')('glint:sidenav');
 var merge = require('utils-merge');
 var inherits = require('inherits');
 var toggle = require('amp-toggle-class');
